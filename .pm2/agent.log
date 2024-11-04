@@ -2601,3 +2601,129 @@ Could not send data to parent
 2024-11-04T12:39:31.888Z interactor:transporter Closed transporter
 2024-11-04T12:39:31.889Z interactor:interface Received event from websocket transporter
 2024-11-04T12:40:08.314Z interactor:interface Connecting to: {"reverse":"https://freenode-1.keymetrics.io:43554","ws":"wss://freenode-1.keymetrics.io/interaction/public","push":"https://freenode-1.keymetrics.io:80","web":"https://freenode-1.keymetrics.io:443","realtime":"https://freenode-1.keymetrics.io:443"}
+2024-11-04T13:17:00.043Z interactor:transporter Closed transporter
+2024-11-04T13:17:00.081Z interactor:interface Received event from websocket transporter
+2024-11-04T13:17:00.371Z interactor:interface Connecting to: {"reverse":"https://freenode-1.keymetrics.io:43554","ws":"wss://freenode-1.keymetrics.io/interaction/public","push":"https://freenode-1.keymetrics.io:80","web":"https://freenode-1.keymetrics.io:443","realtime":"https://freenode-1.keymetrics.io:443"}
+2024-11-04T13:17:00.386Z interactor:interface Connecting to: {"reverse":"https://freenode-1.keymetrics.io:43554","ws":"wss://freenode-1.keymetrics.io/interaction/public","push":"https://freenode-1.keymetrics.io:80","web":"https://freenode-1.keymetrics.io:443","realtime":"https://freenode-1.keymetrics.io:443"}
+2024-11-04T13:17:09.876Z interactor:transporter Emptying queue (size : 1)
+2024-11-04T13:34:28.931Z interactor:interface Received event from websocket transporter
+2024-11-04T13:34:28.931Z interactor:reverse New PM2 action triggered : pm2 startLogging {"name":"echo bot "}
+2024-11-04T13:34:28.931Z interactor:reverse PM2 action ended : pm2 startLogging (no error)
+2024-11-04T13:34:29.002Z interactor:interface Received event from websocket transporter
+2024-11-04T13:34:29.002Z interactor:reverse New PM2 action triggered : pm2 startLogging {"name":"echo bot "}
+2024-11-04T13:34:29.002Z interactor:reverse PM2 action ended : pm2 startLogging (no error)
+2024-11-04T13:34:30.333Z interactor:interface Received event from websocket transporter
+2024-11-04T13:34:30.334Z interactor:reverse New PM2 action triggered : pm2 startLogging {"name":"echo bot "}
+2024-11-04T13:34:30.334Z interactor:reverse PM2 action ended : pm2 startLogging (no error)
+2024-11-04T13:34:31.419Z interactor:interface Received event from websocket transporter
+2024-11-04T13:34:31.420Z interactor:reverse New PM2 action triggered : pm2 startLogging {"name":"echo bot "}
+2024-11-04T13:34:31.420Z interactor:reverse PM2 action ended : pm2 startLogging (no error)
+2024-11-04T13:34:33.419Z interactor:interface Received event from websocket transporter
+2024-11-04T13:34:33.420Z interactor:reverse New PM2 action triggered : pm2 startLogging {"name":"echo bot "}
+2024-11-04T13:34:33.420Z interactor:reverse PM2 action ended : pm2 startLogging (no error)
+2024-11-04T13:34:34.012Z interactor:interface Received event from websocket transporter
+2024-11-04T13:34:34.012Z interactor:reverse New PM2 action triggered : pm2 reload {"name":"0"}
+2024-11-04T13:34:35.124Z interactor:interface Received event from websocket transporter
+2024-11-04T13:34:35.126Z interactor:reverse New PM2 action triggered : pm2 reload {"name":"0"}
+2024-11-04T13:34:37.197Z interactor:reverse PM2 action ended : pm2 reload (no error)
+2024-11-04T13:34:37.222Z interactor:interface Received event from websocket transporter
+2024-11-04T13:34:37.223Z interactor:reverse New PM2 action triggered : pm2 reload {"name":"0"}
+2024-11-04T13:34:37.292Z interactor:interface Received event from websocket transporter
+2024-11-04T13:34:37.292Z interactor:reverse New PM2 action triggered : pm2 reload {"name":"0"}
+2024-11-04T13:34:37.697Z interactor:interface Received event from websocket transporter
+2024-11-04T13:34:37.697Z interactor:reverse New PM2 action triggered : pm2 reload {"name":"0"}
+2024-11-04T13:34:37.803Z interactor:reverse PM2 action ended : pm2 reload (no error)
+2024-11-04T13:34:37.885Z interactor:interface Received event from websocket transporter
+2024-11-04T13:34:37.885Z interactor:reverse New PM2 action triggered : pm2 reload {"name":"0"}
+2024-11-04T13:34:37.994Z interactor:interface Received event from websocket transporter
+2024-11-04T13:34:37.994Z interactor:reverse New PM2 action triggered : pm2 reload {"name":"0"}
+2024-11-04T13:34:38.244Z interactor:interface Received event from websocket transporter
+2024-11-04T13:34:38.244Z interactor:reverse New PM2 action triggered : pm2 reload {"name":"0"}
+2024-11-04T13:34:38.255Z interactor:reverse PM2 action ended : pm2 reload (Process with pid 305 already exists)
+2024-11-04T13:34:38.361Z interactor:reverse PM2 action ended : pm2 reload (no error)
+2024-11-04T13:34:38.405Z interactor:reverse PM2 action ended : pm2 reload (process already started)
+2024-11-04T13:34:38.467Z interactor:reverse PM2 action ended : pm2 reload (no error)
+2024-11-04T13:34:38.738Z interactor:interface Received event from websocket transporter
+2024-11-04T13:34:38.738Z interactor:reverse New PM2 action triggered : pm2 reload {"name":"0"}
+2024-11-04T13:34:39.208Z interactor:interface Received event from websocket transporter
+2024-11-04T13:34:39.208Z interactor:reverse New PM2 action triggered : pm2 reload {"name":"0"}
+2024-11-04T13:34:39.480Z interactor:interface Received event from websocket transporter
+2024-11-04T13:34:39.480Z interactor:reverse New PM2 action triggered : pm2 reload {"name":"0"}
+2024-11-04T13:34:40.526Z interactor:reverse PM2 action ended : pm2 reload (no error)
+2024-11-04T13:34:41.106Z interactor:reverse PM2 action ended : pm2 reload (_old_0 : id unknown)
+2024-11-04T13:34:41.911Z interactor:reverse PM2 action ended : pm2 reload (_old_0 : id unknown)
+2024-11-04T13:34:42.389Z interactor:reverse PM2 action ended : pm2 reload (_old_0 : id unknown)
+2024-11-04T13:34:42.800Z interactor:reverse PM2 action ended : pm2 reload (_old_0 : id unknown)
+2024-11-04T13:36:38.052Z interactor:transporter Closed transporter
+2024-11-04T13:36:38.052Z interactor:interface Received event from websocket transporter
+2024-11-04T13:36:38.052Z interactor:transporter Closed transporter
+2024-11-04T13:36:38.052Z interactor:interface Received event from websocket transporter
+2024-11-04T13:37:00.209Z interactor:interface Connecting to: {"reverse":"https://freenode-1.keymetrics.io:43554","ws":"wss://freenode-1.keymetrics.io/interaction/public","push":"https://freenode-1.keymetrics.io:80","web":"https://freenode-1.keymetrics.io:443","realtime":"https://freenode-1.keymetrics.io:443"}
+2024-11-04T13:55:41.022Z interactor:transporter Closed transporter
+2024-11-04T13:55:41.023Z interactor:interface Received event from websocket transporter
+2024-11-04T13:56:00.286Z interactor:interface Connecting to: {"reverse":"https://freenode-1.keymetrics.io:43554","ws":"wss://freenode-1.keymetrics.io/interaction/public","push":"https://freenode-1.keymetrics.io:80","web":"https://freenode-1.keymetrics.io:443","realtime":"https://freenode-1.keymetrics.io:443"}
+2024-11-04T13:57:00.221Z interactor:interface Connecting to: {"reverse":"https://freenode-1.keymetrics.io:43554","ws":"wss://freenode-1.keymetrics.io/interaction/public","push":"https://freenode-1.keymetrics.io:80","web":"https://freenode-1.keymetrics.io:443","realtime":"https://freenode-1.keymetrics.io:443"}
+2024-11-04T14:19:56.736Z interactor:transporter Closed transporter
+2024-11-04T14:19:56.738Z interactor:interface Received event from websocket transporter
+2024-11-04T14:20:00.381Z interactor:interface Connecting to: {"reverse":"https://freenode-1.keymetrics.io:43554","ws":"wss://freenode-1.keymetrics.io/interaction/public","push":"https://freenode-1.keymetrics.io:80","web":"https://freenode-1.keymetrics.io:443","realtime":"https://freenode-1.keymetrics.io:443"}
+2024-11-04T14:33:13.900Z interactor:transporter Closed transporter
+2024-11-04T14:33:13.908Z interactor:interface Received event from websocket transporter
+2024-11-04T14:34:01.131Z interactor:interface Connecting to: {"reverse":"https://freenode-1.keymetrics.io:43554","ws":"wss://freenode-1.keymetrics.io/interaction/public","push":"https://freenode-1.keymetrics.io:80","web":"https://freenode-1.keymetrics.io:443","realtime":"https://freenode-1.keymetrics.io:443"}
+2024-11-04T14:35:00.625Z interactor:interface Connecting to: {"reverse":"https://freenode-1.keymetrics.io:43554","ws":"wss://freenode-1.keymetrics.io/interaction/public","push":"https://freenode-1.keymetrics.io:80","web":"https://freenode-1.keymetrics.io:443","realtime":"https://freenode-1.keymetrics.io:443"}
+2024-11-04T14:36:01.355Z interactor:interface Connecting to: {"reverse":"https://freenode-1.keymetrics.io:43554","ws":"wss://freenode-1.keymetrics.io/interaction/public","push":"https://freenode-1.keymetrics.io:80","web":"https://freenode-1.keymetrics.io:443","realtime":"https://freenode-1.keymetrics.io:443"}
+2024-11-04T15:01:31.209Z interactor:transporter Closed transporter
+2024-11-04T15:01:31.209Z interactor:interface Received event from websocket transporter
+2024-11-04T15:02:12.225Z interactor:interface Connecting to: {"reverse":"https://freenode-1.keymetrics.io:43554","ws":"wss://freenode-1.keymetrics.io/interaction/public","push":"https://freenode-1.keymetrics.io:80","web":"https://freenode-1.keymetrics.io:443","realtime":"https://freenode-1.keymetrics.io:443"}
+2024-11-04T15:26:32.442Z interactor:transporter Closed transporter
+2024-11-04T15:26:32.442Z interactor:interface Received event from websocket transporter
+2024-11-04T15:27:12.219Z interactor:interface Connecting to: {"reverse":"https://freenode-1.keymetrics.io:43554","ws":"wss://freenode-1.keymetrics.io/interaction/public","push":"https://freenode-1.keymetrics.io:80","web":"https://freenode-1.keymetrics.io:443","realtime":"https://freenode-1.keymetrics.io:443"}
+2024-11-04T15:28:12.218Z interactor:interface Connecting to: {"reverse":"https://freenode-1.keymetrics.io:43554","ws":"wss://freenode-1.keymetrics.io/interaction/public","push":"https://freenode-1.keymetrics.io:80","web":"https://freenode-1.keymetrics.io:443","realtime":"https://freenode-1.keymetrics.io:443"}
+2024-11-04T15:29:12.216Z interactor:interface Connecting to: {"reverse":"https://freenode-1.keymetrics.io:43554","ws":"wss://freenode-1.keymetrics.io/interaction/public","push":"https://freenode-1.keymetrics.io:80","web":"https://freenode-1.keymetrics.io:443","realtime":"https://freenode-1.keymetrics.io:443"}
+2024-11-04T15:30:12.220Z interactor:interface Connecting to: {"reverse":"https://freenode-1.keymetrics.io:43554","ws":"wss://freenode-1.keymetrics.io/interaction/public","push":"https://freenode-1.keymetrics.io:80","web":"https://freenode-1.keymetrics.io:443","realtime":"https://freenode-1.keymetrics.io:443"}
+2024-11-04T15:31:12.230Z interactor:interface Connecting to: {"reverse":"https://freenode-1.keymetrics.io:43554","ws":"wss://freenode-1.keymetrics.io/interaction/public","push":"https://freenode-1.keymetrics.io:80","web":"https://freenode-1.keymetrics.io:443","realtime":"https://freenode-1.keymetrics.io:443"}
+2024-11-04T15:47:26.617Z interactor:transporter Closed transporter
+2024-11-04T15:47:26.617Z interactor:interface Received event from websocket transporter
+2024-11-04T15:48:12.219Z interactor:interface Connecting to: {"reverse":"https://freenode-1.keymetrics.io:43554","ws":"wss://freenode-1.keymetrics.io/interaction/public","push":"https://freenode-1.keymetrics.io:80","web":"https://freenode-1.keymetrics.io:443","realtime":"https://freenode-1.keymetrics.io:443"}
+2024-11-04T15:49:12.219Z interactor:interface Connecting to: {"reverse":"https://freenode-1.keymetrics.io:43554","ws":"wss://freenode-1.keymetrics.io/interaction/public","push":"https://freenode-1.keymetrics.io:80","web":"https://freenode-1.keymetrics.io:443","realtime":"https://freenode-1.keymetrics.io:443"}
+2024-11-04T16:14:58.386Z interactor:transporter Closed transporter
+2024-11-04T16:14:58.387Z interactor:interface Received event from websocket transporter
+2024-11-04T16:15:12.229Z interactor:interface Connecting to: {"reverse":"https://freenode-1.keymetrics.io:43554","ws":"wss://freenode-1.keymetrics.io/interaction/public","push":"https://freenode-1.keymetrics.io:80","web":"https://freenode-1.keymetrics.io:443","realtime":"https://freenode-1.keymetrics.io:443"}
+2024-11-04T16:16:12.238Z interactor:interface Connecting to: {"reverse":"https://freenode-1.keymetrics.io:43554","ws":"wss://freenode-1.keymetrics.io/interaction/public","push":"https://freenode-1.keymetrics.io:80","web":"https://freenode-1.keymetrics.io:443","realtime":"https://freenode-1.keymetrics.io:443"}
+2024-11-04T16:44:50.995Z interactor:transporter Closed transporter
+2024-11-04T16:44:50.995Z interactor:interface Received event from websocket transporter
+2024-11-04T16:45:12.249Z interactor:interface Connecting to: {"reverse":"https://freenode-1.keymetrics.io:43554","ws":"wss://freenode-1.keymetrics.io/interaction/public","push":"https://freenode-1.keymetrics.io:80","web":"https://freenode-1.keymetrics.io:443","realtime":"https://freenode-1.keymetrics.io:443"}
+2024-11-04T17:00:00.752Z interactor:transporter Closed transporter
+2024-11-04T17:00:00.752Z interactor:interface Received event from websocket transporter
+2024-11-04T17:00:12.243Z interactor:interface Connecting to: {"reverse":"https://freenode-1.keymetrics.io:43554","ws":"wss://freenode-1.keymetrics.io/interaction/public","push":"https://freenode-1.keymetrics.io:80","web":"https://freenode-1.keymetrics.io:443","realtime":"https://freenode-1.keymetrics.io:443"}
+2024-11-04T17:14:40.539Z interactor:transporter Closed transporter
+2024-11-04T17:14:40.540Z interactor:interface Received event from websocket transporter
+2024-11-04T17:15:12.261Z interactor:interface Connecting to: {"reverse":"https://freenode-1.keymetrics.io:43554","ws":"wss://freenode-1.keymetrics.io/interaction/public","push":"https://freenode-1.keymetrics.io:80","web":"https://freenode-1.keymetrics.io:443","realtime":"https://freenode-1.keymetrics.io:443"}
+2024-11-04T17:16:12.260Z interactor:interface Connecting to: {"reverse":"https://freenode-1.keymetrics.io:43554","ws":"wss://freenode-1.keymetrics.io/interaction/public","push":"https://freenode-1.keymetrics.io:80","web":"https://freenode-1.keymetrics.io:443","realtime":"https://freenode-1.keymetrics.io:443"}
+2024-11-04T17:17:12.258Z interactor:interface Connecting to: {"reverse":"https://freenode-1.keymetrics.io:43554","ws":"wss://freenode-1.keymetrics.io/interaction/public","push":"https://freenode-1.keymetrics.io:80","web":"https://freenode-1.keymetrics.io:443","realtime":"https://freenode-1.keymetrics.io:443"}
+2024-11-04T17:18:12.263Z interactor:interface Connecting to: {"reverse":"https://freenode-1.keymetrics.io:43554","ws":"wss://freenode-1.keymetrics.io/interaction/public","push":"https://freenode-1.keymetrics.io:80","web":"https://freenode-1.keymetrics.io:443","realtime":"https://freenode-1.keymetrics.io:443"}
+2024-11-04T17:40:29.260Z interactor:transporter Closed transporter
+2024-11-04T17:40:29.260Z interactor:interface Received event from websocket transporter
+2024-11-04T17:41:12.274Z interactor:interface Connecting to: {"reverse":"https://freenode-1.keymetrics.io:43554","ws":"wss://freenode-1.keymetrics.io/interaction/public","push":"https://freenode-1.keymetrics.io:80","web":"https://freenode-1.keymetrics.io:443","realtime":"https://freenode-1.keymetrics.io:443"}
+2024-11-04T17:42:12.277Z interactor:interface Connecting to: {"reverse":"https://freenode-1.keymetrics.io:43554","ws":"wss://freenode-1.keymetrics.io/interaction/public","push":"https://freenode-1.keymetrics.io:80","web":"https://freenode-1.keymetrics.io:443","realtime":"https://freenode-1.keymetrics.io:443"}
+2024-11-04T17:43:12.275Z interactor:interface Connecting to: {"reverse":"https://freenode-1.keymetrics.io:43554","ws":"wss://freenode-1.keymetrics.io/interaction/public","push":"https://freenode-1.keymetrics.io:80","web":"https://freenode-1.keymetrics.io:443","realtime":"https://freenode-1.keymetrics.io:443"}
+2024-11-04T17:55:40.510Z interactor:transporter Closed transporter
+2024-11-04T17:55:40.510Z interactor:interface Received event from websocket transporter
+2024-11-04T17:56:12.310Z interactor:interface Connecting to: {"reverse":"https://freenode-1.keymetrics.io:43554","ws":"wss://freenode-1.keymetrics.io/interaction/public","push":"https://freenode-1.keymetrics.io:80","web":"https://freenode-1.keymetrics.io:443","realtime":"https://freenode-1.keymetrics.io:443"}
+2024-11-04T17:57:12.290Z interactor:interface Connecting to: {"reverse":"https://freenode-1.keymetrics.io:43554","ws":"wss://freenode-1.keymetrics.io/interaction/public","push":"https://freenode-1.keymetrics.io:80","web":"https://freenode-1.keymetrics.io:443","realtime":"https://freenode-1.keymetrics.io:443"}
+2024-11-04T18:22:27.853Z interactor:transporter Closed transporter
+2024-11-04T18:22:27.853Z interactor:interface Received event from websocket transporter
+2024-11-04T18:23:12.309Z interactor:interface Connecting to: {"reverse":"https://freenode-1.keymetrics.io:43554","ws":"wss://freenode-1.keymetrics.io/interaction/public","push":"https://freenode-1.keymetrics.io:80","web":"https://freenode-1.keymetrics.io:443","realtime":"https://freenode-1.keymetrics.io:443"}
+2024-11-04T18:24:12.313Z interactor:interface Connecting to: {"reverse":"https://freenode-1.keymetrics.io:43554","ws":"wss://freenode-1.keymetrics.io/interaction/public","push":"https://freenode-1.keymetrics.io:80","web":"https://freenode-1.keymetrics.io:443","realtime":"https://freenode-1.keymetrics.io:443"}
+2024-11-04T18:25:12.309Z interactor:interface Connecting to: {"reverse":"https://freenode-1.keymetrics.io:43554","ws":"wss://freenode-1.keymetrics.io/interaction/public","push":"https://freenode-1.keymetrics.io:80","web":"https://freenode-1.keymetrics.io:443","realtime":"https://freenode-1.keymetrics.io:443"}
+2024-11-04T18:26:12.327Z interactor:interface Connecting to: {"reverse":"https://freenode-1.keymetrics.io:43554","ws":"wss://freenode-1.keymetrics.io/interaction/public","push":"https://freenode-1.keymetrics.io:80","web":"https://freenode-1.keymetrics.io:443","realtime":"https://freenode-1.keymetrics.io:443"}
+2024-11-04T18:27:12.309Z interactor:interface Connecting to: {"reverse":"https://freenode-1.keymetrics.io:43554","ws":"wss://freenode-1.keymetrics.io/interaction/public","push":"https://freenode-1.keymetrics.io:80","web":"https://freenode-1.keymetrics.io:443","realtime":"https://freenode-1.keymetrics.io:443"}
+2024-11-04T18:28:12.310Z interactor:interface Connecting to: {"reverse":"https://freenode-1.keymetrics.io:43554","ws":"wss://freenode-1.keymetrics.io/interaction/public","push":"https://freenode-1.keymetrics.io:80","web":"https://freenode-1.keymetrics.io:443","realtime":"https://freenode-1.keymetrics.io:443"}
+2024-11-04T18:29:12.310Z interactor:interface Connecting to: {"reverse":"https://freenode-1.keymetrics.io:43554","ws":"wss://freenode-1.keymetrics.io/interaction/public","push":"https://freenode-1.keymetrics.io:80","web":"https://freenode-1.keymetrics.io:443","realtime":"https://freenode-1.keymetrics.io:443"}
+2024-11-04T18:30:12.314Z interactor:interface Connecting to: {"reverse":"https://freenode-1.keymetrics.io:43554","ws":"wss://freenode-1.keymetrics.io/interaction/public","push":"https://freenode-1.keymetrics.io:80","web":"https://freenode-1.keymetrics.io:443","realtime":"https://freenode-1.keymetrics.io:443"}
+2024-11-04T18:31:12.310Z interactor:interface Connecting to: {"reverse":"https://freenode-1.keymetrics.io:43554","ws":"wss://freenode-1.keymetrics.io/interaction/public","push":"https://freenode-1.keymetrics.io:80","web":"https://freenode-1.keymetrics.io:443","realtime":"https://freenode-1.keymetrics.io:443"}
+2024-11-04T18:50:06.808Z interactor:transporter Closed transporter
+2024-11-04T18:50:06.808Z interactor:interface Received event from websocket transporter
+2024-11-04T18:50:12.348Z interactor:interface Connecting to: {"reverse":"https://freenode-1.keymetrics.io:43554","ws":"wss://freenode-1.keymetrics.io/interaction/public","push":"https://freenode-1.keymetrics.io:80","web":"https://freenode-1.keymetrics.io:443","realtime":"https://freenode-1.keymetrics.io:443"}
+2024-11-04T19:16:30.017Z interactor:transporter Closed transporter
+2024-11-04T19:16:30.041Z interactor:interface Received event from websocket transporter
+2024-11-04T19:16:30.256Z interactor:interface Connecting to: {"reverse":"https://freenode-1.keymetrics.io:43554","ws":"wss://freenode-1.keymetrics.io/interaction/public","push":"https://freenode-1.keymetrics.io:80","web":"https://freenode-1.keymetrics.io:443","realtime":"https://freenode-1.keymetrics.io:443"}

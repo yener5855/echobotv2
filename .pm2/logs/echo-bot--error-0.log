@@ -657,3 +657,175 @@ Error: Something went wrong. cron reached maximum iterations.
     at Timeout.callbackWrapper [as _onTimeout] (/home/container/node_modules/cron/lib/cron.js:665:29)
     at listOnTimeout (node:internal/timers:581:17)
     at process.processTimers (node:internal/timers:519:7)
+Error: Something went wrong. cron reached maximum iterations.
+						Please open an  issue (https://github.com/kelektiv/node-cron/issues/new) and provide the following string
+						Time Zone: "" - Cron String: 30 * * * * * - UTC offset: -08:00 - current Date: Mon Nov 04 2024 12:46:41 GMT+0000
+    at CronTime._getNextDateFrom (/home/container/node_modules/cron/lib/cron.js:235:12)
+    at CronTime.sendAt (/home/container/node_modules/cron/lib/cron.js:156:17)
+    at CronTime.getTimeout (/home/container/node_modules/cron/lib/cron.js:175:29)
+    at CronJob.start (/home/container/node_modules/cron/lib/cron.js:613:31)
+    at Timeout.callbackWrapper [as _onTimeout] (/home/container/node_modules/cron/lib/cron.js:665:29)
+    at listOnTimeout (node:internal/timers:581:17)
+    at process.processTimers (node:internal/timers:519:7)
+You have triggered an unhandledRejection, you may have forgotten to catch a Promise rejection:
+Error: Request failed with status code 400
+    at createError (/home/container/node_modules/erela.js-spotify/node_modules/axios/lib/core/createError.js:16:15)
+    at settle (/home/container/node_modules/erela.js-spotify/node_modules/axios/lib/core/settle.js:17:12)
+    at IncomingMessage.handleStreamEnd (/home/container/node_modules/erela.js-spotify/node_modules/axios/lib/adapters/http.js:244:11)
+    at IncomingMessage.emit (node:events:531:35)
+    at endReadableNT (node:internal/streams/readable:1696:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+You have triggered an unhandledRejection, you may have forgotten to catch a Promise rejection:
+Error [TOKEN_INVALID]: An invalid token was provided.
+    at WebSocketManager.connect (/home/container/node_modules/discord.js/src/client/websocket/WebSocketManager.js:129:26)
+    at Client.login (/home/container/node_modules/discord.js/src/client/Client.js:254:21)
+    at Object.<anonymous> (/home/container/index.js:148:8)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at /usr/lib/node_modules/pm2/lib/ProcessContainer.js:304:25
+    at wrapper (/usr/lib/node_modules/pm2/node_modules/async/internal/once.js:12:16)
+    at next (/usr/lib/node_modules/pm2/node_modules/async/waterfall.js:96:20)
+    at /usr/lib/node_modules/pm2/node_modules/async/internal/onlyOnce.js:12:16
+    at WriteStream.<anonymous> (/usr/lib/node_modules/pm2/lib/Utility.js:186:13)
+    at WriteStream.emit (node:events:519:28)
+    at node:internal/fs/streams:78:16
+    at FSReqCallback.oncomplete (node:fs:187:23)
+(node:235) DeprecationWarning: Guild#me is deprecated. Use Guild#members#me instead.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+Error: Unexpected op "ready" with data: [object Object]
+    at Node.message (/home/container/node_modules/erela.js/dist/structures/Node.js:239:54)
+    at WebSocket.emit (node:events:519:28)
+    at Receiver.receiverOnMessage (/home/container/node_modules/ws/lib/websocket.js:1220:20)
+    at Receiver.emit (node:events:519:28)
+    at Receiver.dataMessage (/home/container/node_modules/ws/lib/receiver.js:596:14)
+    at Receiver.getData (/home/container/node_modules/ws/lib/receiver.js:496:10)
+    at Receiver.startLoop (/home/container/node_modules/ws/lib/receiver.js:167:16)
+    at Receiver._write (/home/container/node_modules/ws/lib/receiver.js:94:10)
+    at writeOrBuffer (node:internal/streams/writable:570:12)
+    at _write (node:internal/streams/writable:499:10)
+    at Writable.write (node:internal/streams/writable:508:10)
+    at Socket.socketOnData (/home/container/node_modules/ws/lib/websocket.js:1355:35)
+    at Socket.emit (node:events:519:28)
+    at Readable.read (node:internal/streams/readable:780:10)
+    at Socket.read (node:net:773:39)
+    at flow (node:internal/streams/readable:1281:53)
+    at emitReadable_ (node:internal/streams/readable:845:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:81:21)
+(node:337) DeprecationWarning: Guild#me is deprecated. Use Guild#members#me instead.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+Error: Unexpected op "ready" with data: [object Object]
+    at Node.message (/home/container/node_modules/erela.js/dist/structures/Node.js:239:54)
+    at WebSocket.emit (node:events:519:28)
+    at Receiver.receiverOnMessage (/home/container/node_modules/ws/lib/websocket.js:1220:20)
+    at Receiver.emit (node:events:519:28)
+    at Receiver.dataMessage (/home/container/node_modules/ws/lib/receiver.js:596:14)
+    at Receiver.getData (/home/container/node_modules/ws/lib/receiver.js:496:10)
+    at Receiver.startLoop (/home/container/node_modules/ws/lib/receiver.js:167:16)
+    at Receiver._write (/home/container/node_modules/ws/lib/receiver.js:94:10)
+    at writeOrBuffer (node:internal/streams/writable:570:12)
+    at _write (node:internal/streams/writable:499:10)
+    at Writable.write (node:internal/streams/writable:508:10)
+    at Socket.socketOnData (/home/container/node_modules/ws/lib/websocket.js:1355:35)
+    at Socket.emit (node:events:519:28)
+    at addChunk (node:internal/streams/readable:559:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)
+    at Readable.push (node:internal/streams/readable:390:5)
+    at TCP.onStreamRead (node:internal/stream_base_commons:191:23)
+(node:315) DeprecationWarning: Guild#me is deprecated. Use Guild#members#me instead.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+Error: Unexpected op "ready" with data: [object Object]
+    at Node.message (/home/container/node_modules/erela.js/dist/structures/Node.js:239:54)
+    at WebSocket.emit (node:events:519:28)
+    at Receiver.receiverOnMessage (/home/container/node_modules/ws/lib/websocket.js:1220:20)
+    at Receiver.emit (node:events:519:28)
+    at Receiver.dataMessage (/home/container/node_modules/ws/lib/receiver.js:596:14)
+    at Receiver.getData (/home/container/node_modules/ws/lib/receiver.js:496:10)
+    at Receiver.startLoop (/home/container/node_modules/ws/lib/receiver.js:167:16)
+    at Receiver._write (/home/container/node_modules/ws/lib/receiver.js:94:10)
+    at writeOrBuffer (node:internal/streams/writable:570:12)
+    at _write (node:internal/streams/writable:499:10)
+    at Writable.write (node:internal/streams/writable:508:10)
+    at Socket.socketOnData (/home/container/node_modules/ws/lib/websocket.js:1355:35)
+    at Socket.emit (node:events:519:28)
+    at addChunk (node:internal/streams/readable:559:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)
+    at Readable.push (node:internal/streams/readable:390:5)
+    at TCP.onStreamRead (node:internal/stream_base_commons:191:23)
+(node:374) DeprecationWarning: Guild#me is deprecated. Use Guild#members#me instead.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+Error: Unexpected op "ready" with data: [object Object]
+    at Node.message (/home/container/node_modules/erela.js/dist/structures/Node.js:239:54)
+    at WebSocket.emit (node:events:519:28)
+    at Receiver.receiverOnMessage (/home/container/node_modules/ws/lib/websocket.js:1220:20)
+    at Receiver.emit (node:events:519:28)
+    at Receiver.dataMessage (/home/container/node_modules/ws/lib/receiver.js:596:14)
+    at Receiver.getData (/home/container/node_modules/ws/lib/receiver.js:496:10)
+    at Receiver.startLoop (/home/container/node_modules/ws/lib/receiver.js:167:16)
+    at Receiver._write (/home/container/node_modules/ws/lib/receiver.js:94:10)
+    at writeOrBuffer (node:internal/streams/writable:570:12)
+    at _write (node:internal/streams/writable:499:10)
+    at Writable.write (node:internal/streams/writable:508:10)
+    at Socket.socketOnData (/home/container/node_modules/ws/lib/websocket.js:1355:35)
+    at Socket.emit (node:events:519:28)
+    at addChunk (node:internal/streams/readable:559:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)
+    at Readable.push (node:internal/streams/readable:390:5)
+    at TCP.onStreamRead (node:internal/stream_base_commons:191:23)
+You have triggered an unhandledRejection, you may have forgotten to catch a Promise rejection:
+Error: Failed to fetch site. (Error: socket hang up)
+    at /home/container/handlers/functions.js:2626:15
+    at Generator.throw (<anonymous>)
+    at rejected (/home/container/handlers/functions.js:2580:40)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+Error: Something went wrong. cron reached maximum iterations.
+						Please open an  issue (https://github.com/kelektiv/node-cron/issues/new) and provide the following string
+						Time Zone: "" - Cron String: 0,5,10,15,20,25,30,35,40,45,50,55 * * * * * - UTC offset: -08:00 - current Date: Mon Nov 04 2024 19:07:01 GMT+0000
+    at CronTime._getNextDateFrom (/home/container/node_modules/cron/lib/cron.js:235:12)
+    at CronTime.sendAt (/home/container/node_modules/cron/lib/cron.js:156:17)
+    at CronTime.getTimeout (/home/container/node_modules/cron/lib/cron.js:175:29)
+    at CronJob.start (/home/container/node_modules/cron/lib/cron.js:613:31)
+    at Timeout.callbackWrapper [as _onTimeout] (/home/container/node_modules/cron/lib/cron.js:665:29)
+    at listOnTimeout (node:internal/timers:581:17)
+    at process.processTimers (node:internal/timers:519:7)
+Error: Something went wrong. cron reached maximum iterations.
+						Please open an  issue (https://github.com/kelektiv/node-cron/issues/new) and provide the following string
+						Time Zone: "" - Cron String: 0,5,10,15,20,25,30,35,40,45,50,55 * * * * * - UTC offset: -08:00 - current Date: Mon Nov 04 2024 19:09:17 GMT+0000
+    at CronTime._getNextDateFrom (/home/container/node_modules/cron/lib/cron.js:235:12)
+    at CronTime.sendAt (/home/container/node_modules/cron/lib/cron.js:156:17)
+    at CronTime.getTimeout (/home/container/node_modules/cron/lib/cron.js:175:29)
+    at CronJob.start (/home/container/node_modules/cron/lib/cron.js:613:31)
+    at Timeout.callbackWrapper [as _onTimeout] (/home/container/node_modules/cron/lib/cron.js:665:29)
+    at listOnTimeout (node:internal/timers:581:17)
+    at process.processTimers (node:internal/timers:519:7)
+Error: Something went wrong. cron reached maximum iterations.
+						Please open an  issue (https://github.com/kelektiv/node-cron/issues/new) and provide the following string
+						Time Zone: "" - Cron String: 0,5,10,15,20,25,30,35,40,45,50,55 * * * * * - UTC offset: -08:00 - current Date: Mon Nov 04 2024 19:16:29 GMT+0000
+    at CronTime._getNextDateFrom (/home/container/node_modules/cron/lib/cron.js:235:12)
+    at CronTime.sendAt (/home/container/node_modules/cron/lib/cron.js:156:17)
+    at CronTime.getTimeout (/home/container/node_modules/cron/lib/cron.js:175:29)
+    at CronJob.start (/home/container/node_modules/cron/lib/cron.js:613:31)
+    at Timeout.callbackWrapper [as _onTimeout] (/home/container/node_modules/cron/lib/cron.js:665:29)
+    at listOnTimeout (node:internal/timers:581:17)
+    at process.processTimers (node:internal/timers:519:7)
+Error: Something went wrong. cron reached maximum iterations.
+						Please open an  issue (https://github.com/kelektiv/node-cron/issues/new) and provide the following string
+						Time Zone: "" - Cron String: 0,5,10,15,20,25,30,35,40,45,50,55 * * * * * - UTC offset: -08:00 - current Date: Mon Nov 04 2024 19:16:29 GMT+0000
+    at CronTime._getNextDateFrom (/home/container/node_modules/cron/lib/cron.js:235:12)
+    at CronTime.sendAt (/home/container/node_modules/cron/lib/cron.js:156:17)
+    at CronTime.getTimeout (/home/container/node_modules/cron/lib/cron.js:175:29)
+    at CronJob.start (/home/container/node_modules/cron/lib/cron.js:613:31)
+    at Timeout.callbackWrapper [as _onTimeout] (/home/container/node_modules/cron/lib/cron.js:665:29)
+    at listOnTimeout (node:internal/timers:581:17)
+    at process.processTimers (node:internal/timers:519:7)
+Error: Something went wrong. cron reached maximum iterations.
+						Please open an  issue (https://github.com/kelektiv/node-cron/issues/new) and provide the following string
+						Time Zone: "" - Cron String: 0,5,10,15,20,25,30,35,40,45,50,55 * * * * * - UTC offset: -08:00 - current Date: Mon Nov 04 2024 19:16:29 GMT+0000
+    at CronTime._getNextDateFrom (/home/container/node_modules/cron/lib/cron.js:235:12)
+    at CronTime.sendAt (/home/container/node_modules/cron/lib/cron.js:156:17)
+    at CronTime.getTimeout (/home/container/node_modules/cron/lib/cron.js:175:29)
+    at CronJob.start (/home/container/node_modules/cron/lib/cron.js:613:31)
+    at Timeout.callbackWrapper [as _onTimeout] (/home/container/node_modules/cron/lib/cron.js:665:29)
+    at listOnTimeout (node:internal/timers:581:17)
+    at process.processTimers (node:internal/timers:519:7)
