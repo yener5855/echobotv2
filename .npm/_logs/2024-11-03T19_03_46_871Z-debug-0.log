@@ -1,0 +1,62 @@
+0 verbose cli /usr/bin/node /usr/bin/npm
+1 info using npm@10.8.2
+2 info using node@v20.18.0
+3 silly config load:file:/usr/lib/node_modules/npm/npmrc
+4 silly config load:file:/home/container/.npmrc
+5 silly config load:file:/usr/etc/npmrc
+6 verbose title npm outdate
+7 verbose argv "outdate"
+8 verbose logfile logs-max:10 dir:/home/container/.npm/_logs/2024-11-03T19_03_46_871Z-
+9 verbose logfile /home/container/.npm/_logs/2024-11-03T19_03_46_871Z-debug-0.log
+10 silly packumentCache heap:1056702464 maxSize:264175616 maxEntrySize:132087808
+11 silly logfile done cleaning log files
+12 http fetch GET 200 https://registry.npmjs.org/canvacord 466ms (cache revalidated)
+13 http fetch GET 200 https://registry.npmjs.org/@discordjs%2fbuilders 497ms (cache revalidated)
+14 http fetch GET 200 https://registry.npmjs.org/anime-actions 561ms (cache revalidated)
+15 http fetch GET 200 https://registry.npmjs.org/captcha-canvas 584ms (cache revalidated)
+16 http fetch GET 200 https://registry.npmjs.org/axios 594ms (cache revalidated)
+17 http fetch GET 200 https://registry.npmjs.org/cpu-stat 611ms (cache revalidated)
+18 http fetch GET 200 https://registry.npmjs.org/bufferutil 628ms (cache revalidated)
+19 http fetch GET 200 https://registry.npmjs.org/@discordjs%2fopus 643ms (cache revalidated)
+20 http fetch GET 200 https://registry.npmjs.org/common-tags 628ms (cache revalidated)
+21 http fetch GET 200 https://registry.npmjs.org/discord-backup 632ms (cache revalidated)
+22 http fetch GET 200 https://registry.npmjs.org/booru 646ms (cache revalidated)
+23 http fetch GET 200 https://registry.npmjs.org/discord-canvas 635ms (cache revalidated)
+24 http fetch GET 200 https://registry.npmjs.org/discord-giveaways 634ms (cache revalidated)
+25 http fetch GET 200 https://registry.npmjs.org/cron 642ms (cache revalidated)
+26 http fetch GET 200 https://registry.npmjs.org/canvas 652ms (cache revalidated)
+27 http fetch GET 200 https://registry.npmjs.org/erela.js-spotify 626ms (cache revalidated)
+28 http fetch GET 200 https://registry.npmjs.org/colors 653ms (cache revalidated)
+29 http fetch GET 200 https://registry.npmjs.org/cheerio 659ms (cache revalidated)
+30 http fetch GET 200 https://registry.npmjs.org/@discordjs%2fvoice 676ms (cache revalidated)
+31 http fetch GET 200 https://registry.npmjs.org/discord.js 703ms (cache revalidated)
+32 http fetch GET 200 https://registry.npmjs.org/memer-api 777ms (cache revalidated)
+33 http fetch GET 200 https://registry.npmjs.org/@m3rcena%2fweky 821ms (cache revalidated)
+34 http fetch GET 200 https://registry.npmjs.org/erela.js 795ms (cache revalidated)
+35 http fetch GET 200 https://registry.npmjs.org/enmap 802ms (cache revalidated)
+36 http fetch GET 200 https://registry.npmjs.org/got 792ms (cache revalidated)
+37 http fetch GET 200 https://registry.npmjs.org/random-words 791ms (cache revalidated)
+38 http fetch GET 200 https://registry.npmjs.org/random-puppy 795ms (cache revalidated)
+39 http fetch GET 200 https://registry.npmjs.org/math-expression-evaluator 805ms (cache revalidated)
+40 http fetch GET 200 https://registry.npmjs.org/request-promise-native 797ms (cache revalidated)
+41 http fetch GET 200 https://registry.npmjs.org/dotenv 825ms (cache revalidated)
+42 http fetch GET 200 https://registry.npmjs.org/tiktok-scraper 784ms (cache revalidated)
+43 http fetch GET 200 https://registry.npmjs.org/radio-browser 816ms (cache revalidated)
+44 http fetch GET 200 https://registry.npmjs.org/twit 790ms (cache revalidated)
+45 http fetch GET 200 https://registry.npmjs.org/wrap-ansi 787ms (cache revalidated)
+46 http fetch GET 200 https://registry.npmjs.org/utf-8-validate 791ms (cache revalidated)
+47 http fetch GET 200 https://registry.npmjs.org/translatte 795ms (cache revalidated)
+48 http fetch GET 200 https://registry.npmjs.org/superagent 800ms (cache revalidated)
+49 http fetch GET 200 https://registry.npmjs.org/strip-ansi 808ms (cache revalidated)
+50 http fetch GET 200 https://registry.npmjs.org/weather-js 800ms (cache revalidated)
+51 http fetch GET 200 https://registry.npmjs.org/rss-parser 815ms (cache revalidated)
+52 http fetch GET 200 https://registry.npmjs.org/yargs 802ms (cache revalidated)
+53 http fetch GET 200 https://registry.npmjs.org/nekos.life 841ms (cache revalidated)
+54 http fetch GET 200 https://registry.npmjs.org/erela.js-deezer 1029ms (cache revalidated)
+55 http fetch GET 200 https://registry.npmjs.org/erela.js-facebook 1060ms (cache revalidated)
+56 verbose cwd /home/container
+57 verbose os Linux 6.11.0-8-generic
+58 verbose node v20.18.0
+59 verbose npm  v10.8.2
+60 verbose exit 1
+61 verbose code 1

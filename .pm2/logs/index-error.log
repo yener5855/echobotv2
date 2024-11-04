@@ -1,0 +1,433 @@
+Error: Cannot find module 'discord.js'
+Require stack:
+- /home/container/index.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1225:15)
+    at Hook._require.Module.require (/usr/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:81:25)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/container/index.js:23:17)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Object.<anonymous> (/usr/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [ '/home/container/index.js' ]
+}
+Error: Cannot find module 'discord.js'
+Require stack:
+- /home/container/index.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1225:15)
+    at Hook._require.Module.require (/usr/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:81:25)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/container/index.js:23:17)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Object.<anonymous> (/usr/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [ '/home/container/index.js' ]
+}
+Error: Cannot find module 'discord.js'
+Require stack:
+- /home/container/index.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1225:15)
+    at Hook._require.Module.require (/usr/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:81:25)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/container/index.js:23:17)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Object.<anonymous> (/usr/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [ '/home/container/index.js' ]
+}
+Error: Cannot find module 'discord.js'
+Require stack:
+- /home/container/index.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1225:15)
+    at Hook._require.Module.require (/usr/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:81:25)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/container/index.js:23:17)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Object.<anonymous> (/usr/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [ '/home/container/index.js' ]
+}
+Error: Cannot find module 'discord.js'
+Require stack:
+- /home/container/index.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1225:15)
+    at Hook._require.Module.require (/usr/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:81:25)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/container/index.js:23:17)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Object.<anonymous> (/usr/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [ '/home/container/index.js' ]
+}
+Error: Cannot find module 'discord.js'
+Require stack:
+- /home/container/index.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1225:15)
+    at Hook._require.Module.require (/usr/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:81:25)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/container/index.js:23:17)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Object.<anonymous> (/usr/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [ '/home/container/index.js' ]
+}
+Error: Cannot find module 'discord.js'
+Require stack:
+- /home/container/index.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1225:15)
+    at Hook._require.Module.require (/usr/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:81:25)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/container/index.js:23:17)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Object.<anonymous> (/usr/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [ '/home/container/index.js' ]
+}
+Error: Cannot find module 'discord.js'
+Require stack:
+- /home/container/index.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1225:15)
+    at Hook._require.Module.require (/usr/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:81:25)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/container/index.js:23:17)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Object.<anonymous> (/usr/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [ '/home/container/index.js' ]
+}
+Error: Cannot find module 'discord.js'
+Require stack:
+- /home/container/index.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1225:15)
+    at Hook._require.Module.require (/usr/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:81:25)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/container/index.js:23:17)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Object.<anonymous> (/usr/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [ '/home/container/index.js' ]
+}
+Error: Cannot find module 'discord.js'
+Require stack:
+- /home/container/index.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1225:15)
+    at Hook._require.Module.require (/usr/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:81:25)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/container/index.js:23:17)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Object.<anonymous> (/usr/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [ '/home/container/index.js' ]
+}
+Error: Cannot find module 'discord.js'
+Require stack:
+- /home/container/index.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1225:15)
+    at Hook._require.Module.require (/usr/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:81:25)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/container/index.js:23:17)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Object.<anonymous> (/usr/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [ '/home/container/index.js' ]
+}
+Error: Cannot find module 'discord.js'
+Require stack:
+- /home/container/index.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1225:15)
+    at Hook._require.Module.require (/usr/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:81:25)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/container/index.js:23:17)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Object.<anonymous> (/usr/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [ '/home/container/index.js' ]
+}
+Error: Cannot find module 'discord.js'
+Require stack:
+- /home/container/index.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1225:15)
+    at Hook._require.Module.require (/usr/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:81:25)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/container/index.js:23:17)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Object.<anonymous> (/usr/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [ '/home/container/index.js' ]
+}
+Error: Cannot find module 'discord.js'
+Require stack:
+- /home/container/index.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1225:15)
+    at Hook._require.Module.require (/usr/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:81:25)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/container/index.js:23:17)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Object.<anonymous> (/usr/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [ '/home/container/index.js' ]
+}
+Error: Cannot find module 'discord.js'
+Require stack:
+- /home/container/index.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1225:15)
+    at Hook._require.Module.require (/usr/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:81:25)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/container/index.js:23:17)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Object.<anonymous> (/usr/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [ '/home/container/index.js' ]
+}
+Error: Cannot find module 'discord.js'
+Require stack:
+- /home/container/index.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1225:15)
+    at Hook._require.Module.require (/usr/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:81:25)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/container/index.js:23:17)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Object.<anonymous> (/usr/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [ '/home/container/index.js' ]
+}
+(node:11004) DeprecationWarning: Guild#me is deprecated. Use Guild#members#me instead.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+Error: Unexpected op "ready" with data: [object Object]
+    at Node.message (/home/container/node_modules/erela.js/dist/structures/Node.js:239:54)
+    at WebSocket.emit (node:events:519:28)
+    at Receiver.receiverOnMessage (/home/container/node_modules/ws/lib/websocket.js:1220:20)
+    at Receiver.emit (node:events:519:28)
+    at Receiver.dataMessage (/home/container/node_modules/ws/lib/receiver.js:596:14)
+    at Receiver.getData (/home/container/node_modules/ws/lib/receiver.js:496:10)
+    at Receiver.startLoop (/home/container/node_modules/ws/lib/receiver.js:167:16)
+    at Receiver._write (/home/container/node_modules/ws/lib/receiver.js:94:10)
+    at writeOrBuffer (node:internal/streams/writable:570:12)
+    at _write (node:internal/streams/writable:499:10)
+    at Writable.write (node:internal/streams/writable:508:10)
+    at Socket.socketOnData (/home/container/node_modules/ws/lib/websocket.js:1355:35)
+    at Socket.emit (node:events:519:28)
+    at addChunk (node:internal/streams/readable:559:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)
+    at Readable.push (node:internal/streams/readable:390:5)
+    at TCP.onStreamRead (node:internal/stream_base_commons:191:23)
+FetchError: invalid json response body at http://api.brainshop.ai/get?bid=153861&key=0ZjvbPWKAxJvcJ96&uid=1&msg=who%20is%20yener5855%20and%20what%20is%20he%20doing reason: Unexpected token '(', "(Time out)" is not valid JSON
+    at /home/container/node_modules/node-fetch/lib/index.js:273:32
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5) {
+  type: 'invalid-json'
+}
+FetchError: invalid json response body at http://api.brainshop.ai/get?bid=153861&key=0ZjvbPWKAxJvcJ96&uid=1&msg=who%20is%20yener5855 reason: Unexpected token '(', "(Time out)" is not valid JSON
+    at /home/container/node_modules/node-fetch/lib/index.js:273:32
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5) {
+  type: 'invalid-json'
+}
+(node:11004) DeprecationWarning: Passing strings for MessageEmbed#setAuthor is deprecated. Pass a sole object instead.
+FetchError: invalid json response body at http://api.brainshop.ai/get?bid=153861&key=0ZjvbPWKAxJvcJ96&uid=1&msg=who%20is%20your%20owner reason: Unexpected token '(', "(Time out)" is not valid JSON
+    at /home/container/node_modules/node-fetch/lib/index.js:273:32
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5) {
+  type: 'invalid-json'
+}
+(node:11032) DeprecationWarning: Guild#me is deprecated. Use Guild#members#me instead.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+Error: Unexpected op "ready" with data: [object Object]
+    at Node.message (/home/container/node_modules/erela.js/dist/structures/Node.js:239:54)
+    at WebSocket.emit (node:events:519:28)
+    at Receiver.receiverOnMessage (/home/container/node_modules/ws/lib/websocket.js:1220:20)
+    at Receiver.emit (node:events:519:28)
+    at Receiver.dataMessage (/home/container/node_modules/ws/lib/receiver.js:596:14)
+    at Receiver.getData (/home/container/node_modules/ws/lib/receiver.js:496:10)
+    at Receiver.startLoop (/home/container/node_modules/ws/lib/receiver.js:167:16)
+    at Receiver._write (/home/container/node_modules/ws/lib/receiver.js:94:10)
+    at writeOrBuffer (node:internal/streams/writable:570:12)
+    at _write (node:internal/streams/writable:499:10)
+    at Writable.write (node:internal/streams/writable:508:10)
+    at Socket.socketOnData (/home/container/node_modules/ws/lib/websocket.js:1355:35)
+    at Socket.emit (node:events:519:28)
+    at addChunk (node:internal/streams/readable:559:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)
+    at Readable.push (node:internal/streams/readable:390:5)
+    at TCP.onStreamRead (node:internal/stream_base_commons:191:23)
+(node:11045) DeprecationWarning: Guild#me is deprecated. Use Guild#members#me instead.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+Error: Unexpected op "ready" with data: [object Object]
+    at Node.message (/home/container/node_modules/erela.js/dist/structures/Node.js:239:54)
+    at WebSocket.emit (node:events:519:28)
+    at Receiver.receiverOnMessage (/home/container/node_modules/ws/lib/websocket.js:1220:20)
+    at Receiver.emit (node:events:519:28)
+    at Receiver.dataMessage (/home/container/node_modules/ws/lib/receiver.js:596:14)
+    at Receiver.getData (/home/container/node_modules/ws/lib/receiver.js:496:10)
+    at Receiver.startLoop (/home/container/node_modules/ws/lib/receiver.js:167:16)
+    at Receiver._write (/home/container/node_modules/ws/lib/receiver.js:94:10)
+    at writeOrBuffer (node:internal/streams/writable:570:12)
+    at _write (node:internal/streams/writable:499:10)
+    at Writable.write (node:internal/streams/writable:508:10)
+    at Socket.socketOnData (/home/container/node_modules/ws/lib/websocket.js:1355:35)
+    at Socket.emit (node:events:519:28)
+    at addChunk (node:internal/streams/readable:559:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)
+    at Readable.push (node:internal/streams/readable:390:5)
+    at TCP.onStreamRead (node:internal/stream_base_commons:191:23)
+FetchError: invalid json response body at http://api.brainshop.ai/get?bid=181264&key=57bgZKSwD1XyAbjc&uid=[uid]&msg=[msg]=Reboot%20ai reason: Unexpected token '(', "(Time out)" is not valid JSON
+    at /home/container/node_modules/node-fetch/lib/index.js:273:32
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5) {
+  type: 'invalid-json'
+}
+FetchError: invalid json response body at http://api.brainshop.ai/get?bid=181264&key=57bgZKSwD1XyAbjc&uid=[uid]&msg=[msg]=hello reason: Unexpected token '(', "(Time out)" is not valid JSON
+    at /home/container/node_modules/node-fetch/lib/index.js:273:32
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5) {
+  type: 'invalid-json'
+}
+(node:11095) DeprecationWarning: Guild#me is deprecated. Use Guild#members#me instead.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+Error: Unexpected op "ready" with data: [object Object]
+    at Node.message (/home/container/node_modules/erela.js/dist/structures/Node.js:239:54)
+    at WebSocket.emit (node:events:519:28)
+    at Receiver.receiverOnMessage (/home/container/node_modules/ws/lib/websocket.js:1220:20)
+    at Receiver.emit (node:events:519:28)
+    at Receiver.dataMessage (/home/container/node_modules/ws/lib/receiver.js:596:14)
+    at Receiver.getData (/home/container/node_modules/ws/lib/receiver.js:496:10)
+    at Receiver.startLoop (/home/container/node_modules/ws/lib/receiver.js:167:16)
+    at Receiver._write (/home/container/node_modules/ws/lib/receiver.js:94:10)
+    at writeOrBuffer (node:internal/streams/writable:570:12)
+    at _write (node:internal/streams/writable:499:10)
+    at Writable.write (node:internal/streams/writable:508:10)
+    at Socket.socketOnData (/home/container/node_modules/ws/lib/websocket.js:1355:35)
+    at Socket.emit (node:events:519:28)
+    at addChunk (node:internal/streams/readable:559:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)
+    at Readable.push (node:internal/streams/readable:390:5)
+    at TCP.onStreamRead (node:internal/stream_base_commons:191:23)
+(node:11108) DeprecationWarning: Guild#me is deprecated. Use Guild#members#me instead.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+Error: Unexpected op "ready" with data: [object Object]
+    at Node.message (/home/container/node_modules/erela.js/dist/structures/Node.js:239:54)
+    at WebSocket.emit (node:events:519:28)
+    at Receiver.receiverOnMessage (/home/container/node_modules/ws/lib/websocket.js:1220:20)
+    at Receiver.emit (node:events:519:28)
+    at Receiver.dataMessage (/home/container/node_modules/ws/lib/receiver.js:596:14)
+    at Receiver.getData (/home/container/node_modules/ws/lib/receiver.js:496:10)
+    at Receiver.startLoop (/home/container/node_modules/ws/lib/receiver.js:167:16)
+    at Receiver._write (/home/container/node_modules/ws/lib/receiver.js:94:10)
+    at writeOrBuffer (node:internal/streams/writable:570:12)
+    at _write (node:internal/streams/writable:499:10)
+    at Writable.write (node:internal/streams/writable:508:10)
+    at Socket.socketOnData (/home/container/node_modules/ws/lib/websocket.js:1355:35)
+    at Socket.emit (node:events:519:28)
+    at addChunk (node:internal/streams/readable:559:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)
+    at Readable.push (node:internal/streams/readable:390:5)
+    at TCP.onStreamRead (node:internal/stream_base_commons:191:23)
+FetchError: invalid json response body at http://api.brainshop.ai/get?bid=153861&key=0ZjvbPWKAxJvcJ96&uid=1&msg=who%20is%20your%20owner reason: Unexpected token '(', "(Time out)" is not valid JSON
+    at /home/container/node_modules/node-fetch/lib/index.js:273:32
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5) {
+  type: 'invalid-json'
+}
+FetchError: invalid json response body at http://api.brainshop.ai/get?bid=153861&key=0ZjvbPWKAxJvcJ96&uid=1&msg=who%20is%20your%20owner reason: Unexpected token '(', "(Time out)" is not valid JSON
+    at /home/container/node_modules/node-fetch/lib/index.js:273:32
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5) {
+  type: 'invalid-json'
+}
+(node:11108) DeprecationWarning: MessageEmbed#addField is deprecated and will be removed in the next major update. Use MessageEmbed#addFields instead.
+(node:11121) DeprecationWarning: Guild#me is deprecated. Use Guild#members#me instead.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+Error: Unexpected op "ready" with data: [object Object]
+    at Node.message (/home/container/node_modules/erela.js/dist/structures/Node.js:239:54)
+    at WebSocket.emit (node:events:519:28)
+    at Receiver.receiverOnMessage (/home/container/node_modules/ws/lib/websocket.js:1220:20)
+    at Receiver.emit (node:events:519:28)
+    at Receiver.dataMessage (/home/container/node_modules/ws/lib/receiver.js:596:14)
+    at Receiver.getData (/home/container/node_modules/ws/lib/receiver.js:496:10)
+    at Receiver.startLoop (/home/container/node_modules/ws/lib/receiver.js:167:16)
+    at Receiver._write (/home/container/node_modules/ws/lib/receiver.js:94:10)
+    at writeOrBuffer (node:internal/streams/writable:570:12)
+    at _write (node:internal/streams/writable:499:10)
+    at Writable.write (node:internal/streams/writable:508:10)
+    at Socket.socketOnData (/home/container/node_modules/ws/lib/websocket.js:1355:35)
+    at Socket.emit (node:events:519:28)
+    at addChunk (node:internal/streams/readable:559:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)
+    at Readable.push (node:internal/streams/readable:390:5)
+    at TCP.onStreamRead (node:internal/stream_base_commons:191:23)
+(node:42) DeprecationWarning: Guild#me is deprecated. Use Guild#members#me instead.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+Error: Unexpected op "ready" with data: [object Object]
+    at Node.message (/home/container/node_modules/erela.js/dist/structures/Node.js:239:54)
+    at WebSocket.emit (node:events:519:28)
+    at Receiver.receiverOnMessage (/home/container/node_modules/ws/lib/websocket.js:1220:20)
+    at Receiver.emit (node:events:519:28)
+    at Receiver.dataMessage (/home/container/node_modules/ws/lib/receiver.js:596:14)
+    at Receiver.getData (/home/container/node_modules/ws/lib/receiver.js:496:10)
+    at Receiver.startLoop (/home/container/node_modules/ws/lib/receiver.js:167:16)
+    at Receiver._write (/home/container/node_modules/ws/lib/receiver.js:94:10)
+    at writeOrBuffer (node:internal/streams/writable:570:12)
+    at _write (node:internal/streams/writable:499:10)
+    at Writable.write (node:internal/streams/writable:508:10)
+    at Socket.socketOnData (/home/container/node_modules/ws/lib/websocket.js:1355:35)
+    at Socket.emit (node:events:519:28)
+    at addChunk (node:internal/streams/readable:559:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)
+    at Readable.push (node:internal/streams/readable:390:5)
+    at TCP.onStreamRead (node:internal/stream_base_commons:191:23)
