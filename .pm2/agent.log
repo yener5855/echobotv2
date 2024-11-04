@@ -2402,3 +2402,202 @@ Could not send data to parent
 2024-11-04T09:52:02.277Z interactor:transporter Trying to reconnect to remote endpoint
 2024-11-04T09:52:02.278Z interactor:interface Received event from websocket transporter
 2024-11-04T09:52:02.438Z interactor:transporter Connection etablished with remote endpoint
+2024-11-04T10:17:23.061Z interactor:transporter Closed transporter
+2024-11-04T10:17:23.062Z interactor:transporter Trying to reconnect to remote endpoint
+2024-11-04T10:17:23.064Z interactor:interface Received event from websocket transporter
+2024-11-04T10:17:23.176Z interactor:transporter Connection etablished with remote endpoint
+2024-11-04T10:35:25.635Z interactor:transporter Closed transporter
+2024-11-04T10:35:25.637Z interactor:transporter Trying to reconnect to remote endpoint
+2024-11-04T10:35:25.639Z interactor:interface Received event from websocket transporter
+2024-11-04T10:35:25.775Z interactor:transporter Connection etablished with remote endpoint
+2024-11-04T10:58:24.663Z interactor:transporter Closed transporter
+2024-11-04T10:58:24.664Z interactor:transporter Trying to reconnect to remote endpoint
+2024-11-04T10:58:24.664Z interactor:interface Received event from websocket transporter
+2024-11-04T10:58:24.778Z interactor:transporter Connection etablished with remote endpoint
+2024-11-04T11:16:40.314Z interactor:transporter Closed transporter
+2024-11-04T11:16:40.314Z interactor:transporter Trying to reconnect to remote endpoint
+2024-11-04T11:16:40.315Z interactor:interface Received event from websocket transporter
+2024-11-04T11:16:40.449Z interactor:transporter Connection etablished with remote endpoint
+2024-11-04T11:33:47.588Z interactor:transporter Closed transporter
+2024-11-04T11:33:47.588Z interactor:transporter Trying to reconnect to remote endpoint
+2024-11-04T11:33:47.590Z interactor:interface Received event from websocket transporter
+2024-11-04T11:33:47.718Z interactor:transporter Connection etablished with remote endpoint
+2024-11-04T11:44:47.387Z interactor:transporter Closed transporter
+2024-11-04T11:44:47.388Z interactor:transporter Trying to reconnect to remote endpoint
+2024-11-04T11:44:47.389Z interactor:interface Received event from websocket transporter
+2024-11-04T11:44:47.555Z interactor:transporter Connection etablished with remote endpoint
+2024-11-04T11:54:00.585Z interactor:transporter Closed transporter
+2024-11-04T11:54:00.585Z interactor:transporter Trying to reconnect to remote endpoint
+2024-11-04T11:54:00.585Z interactor:interface Received event from websocket transporter
+2024-11-04T11:54:00.724Z interactor:transporter Connection etablished with remote endpoint
+2024-11-04T11:59:33.530Z interactor:transporter Closed transporter
+2024-11-04T11:59:33.553Z interactor:transporter Trying to reconnect to remote endpoint
+2024-11-04T11:59:33.580Z interactor:interface Received event from websocket transporter
+2024-11-04T11:59:34.229Z interactor:transporter Connection etablished with remote endpoint
+2024-11-04T12:37:07.382Z interactor:transporter Trying to reconnect to remote endpoint
+2024-11-04T12:37:07.618Z interactor:transporter Closed transporter
+2024-11-04T12:37:07.635Z interactor:interface Received event from websocket transporter
+2024-11-04T12:37:08.327Z interactor:interface Connecting to: {"reverse":"https://freenode-1.keymetrics.io:43554","ws":"wss://freenode-1.keymetrics.io/interaction/public","push":"https://freenode-1.keymetrics.io:80","web":"https://freenode-1.keymetrics.io:443","realtime":"https://freenode-1.keymetrics.io:443"}
+2024-11-04T12:37:08.417Z interactor:transporter Endpoint down, retry in 5 seconds ...
+2024-11-04T12:37:08.677Z interactor:transporter Trying to reconnect to remote endpoint
+2024-11-04T12:37:08.835Z interactor:transporter Connection etablished with remote endpoint
+2024-11-04T12:37:08.844Z interactor:transporter Emptying queue (size : 1)
+2024-11-04T12:37:13.436Z interactor:transporter Trying to reconnect to remote endpoint
+2024-11-04T12:37:13.514Z interactor:transporter Endpoint down, retry in 5 seconds ...
+2024-11-04T12:37:13.675Z interactor:transporter Trying to reconnect to remote endpoint
+2024-11-04T12:37:13.731Z interactor:transporter Endpoint down, retry in 5 seconds ...
+2024-11-04T12:37:14.676Z interactor:transporter Trying to reconnect to remote endpoint
+2024-11-04T12:37:14.731Z interactor:transporter Endpoint down, retry in 5 seconds ...
+2024-11-04T12:37:15.673Z interactor:transporter Trying to reconnect to remote endpoint
+2024-11-04T12:37:15.732Z interactor:transporter Endpoint down, retry in 5 seconds ...
+2024-11-04T12:37:16.671Z interactor:transporter Trying to reconnect to remote endpoint
+2024-11-04T12:37:16.715Z interactor:transporter Endpoint down, retry in 5 seconds ...
+2024-11-04T12:37:17.669Z interactor:transporter Trying to reconnect to remote endpoint
+2024-11-04T12:37:17.747Z interactor:transporter Endpoint down, retry in 5 seconds ...
+2024-11-04T12:37:18.516Z interactor:transporter Trying to reconnect to remote endpoint
+2024-11-04T12:37:18.573Z interactor:transporter Endpoint down, retry in 5 seconds ...
+2024-11-04T12:37:18.669Z interactor:transporter Trying to reconnect to remote endpoint
+2024-11-04T12:37:18.712Z interactor:transporter Endpoint down, retry in 5 seconds ...
+2024-11-04T12:37:18.736Z interactor:transporter Trying to reconnect to remote endpoint
+2024-11-04T12:37:18.852Z interactor:transporter Endpoint down, retry in 5 seconds ...
+2024-11-04T12:37:19.674Z interactor:transporter Trying to reconnect to remote endpoint
+2024-11-04T12:37:19.749Z interactor:transporter Connection etablished with remote endpoint
+2024-11-04T12:37:20.734Z interactor:transporter Trying to reconnect to remote endpoint
+2024-11-04T12:37:20.764Z interactor:transporter Endpoint down, retry in 5 seconds ...
+2024-11-04T12:37:21.667Z interactor:transporter Trying to reconnect to remote endpoint
+2024-11-04T12:37:21.725Z interactor:transporter Endpoint down, retry in 5 seconds ...
+2024-11-04T12:37:22.668Z interactor:transporter Trying to reconnect to remote endpoint
+2024-11-04T12:37:22.731Z interactor:transporter Endpoint down, retry in 5 seconds ...
+2024-11-04T12:37:22.750Z interactor:transporter Trying to reconnect to remote endpoint
+2024-11-04T12:37:22.813Z interactor:transporter Connection etablished with remote endpoint
+2024-11-04T12:37:23.574Z interactor:transporter Trying to reconnect to remote endpoint
+2024-11-04T12:37:23.606Z interactor:transporter Endpoint down, retry in 5 seconds ...
+2024-11-04T12:37:23.669Z interactor:transporter Trying to reconnect to remote endpoint
+2024-11-04T12:37:23.738Z interactor:transporter Endpoint down, retry in 5 seconds ...
+2024-11-04T12:37:23.853Z interactor:transporter Trying to reconnect to remote endpoint
+2024-11-04T12:37:23.887Z interactor:transporter Endpoint down, retry in 5 seconds ...
+2024-11-04T12:37:24.670Z interactor:transporter Trying to reconnect to remote endpoint
+2024-11-04T12:37:24.701Z interactor:transporter Endpoint down, retry in 5 seconds ...
+2024-11-04T12:37:25.671Z interactor:transporter Trying to reconnect to remote endpoint
+2024-11-04T12:37:25.702Z interactor:transporter Endpoint down, retry in 5 seconds ...
+2024-11-04T12:37:25.764Z interactor:transporter Trying to reconnect to remote endpoint
+2024-11-04T12:37:26.494Z interactor:transporter Connection etablished with remote endpoint
+2024-11-04T12:37:26.725Z interactor:transporter Trying to reconnect to remote endpoint
+2024-11-04T12:37:26.759Z interactor:transporter Endpoint down, retry in 5 seconds ...
+2024-11-04T12:37:27.673Z interactor:transporter Trying to reconnect to remote endpoint
+2024-11-04T12:37:27.704Z interactor:transporter Endpoint down, retry in 5 seconds ...
+2024-11-04T12:37:27.732Z interactor:transporter Trying to reconnect to remote endpoint
+2024-11-04T12:37:27.771Z interactor:transporter Endpoint down, retry in 5 seconds ...
+2024-11-04T12:37:28.607Z interactor:transporter Trying to reconnect to remote endpoint
+2024-11-04T12:37:28.637Z interactor:transporter Endpoint down, retry in 5 seconds ...
+2024-11-04T12:37:28.673Z interactor:transporter Trying to reconnect to remote endpoint
+2024-11-04T12:37:28.703Z interactor:transporter Endpoint down, retry in 5 seconds ...
+2024-11-04T12:37:28.738Z interactor:transporter Trying to reconnect to remote endpoint
+2024-11-04T12:37:28.771Z interactor:transporter Endpoint down, retry in 5 seconds ...
+2024-11-04T12:37:28.887Z interactor:transporter Trying to reconnect to remote endpoint
+2024-11-04T12:37:28.919Z interactor:transporter Endpoint down, retry in 5 seconds ...
+2024-11-04T12:37:29.674Z interactor:transporter Trying to reconnect to remote endpoint
+2024-11-04T12:37:29.704Z interactor:transporter Endpoint down, retry in 5 seconds ...
+2024-11-04T12:37:30.675Z interactor:transporter Trying to reconnect to remote endpoint
+2024-11-04T12:37:30.708Z interactor:transporter Endpoint down, retry in 5 seconds ...
+2024-11-04T12:37:31.676Z interactor:transporter Trying to reconnect to remote endpoint
+2024-11-04T12:37:31.742Z interactor:transporter Endpoint down, retry in 5 seconds ...
+2024-11-04T12:37:31.759Z interactor:transporter Trying to reconnect to remote endpoint
+2024-11-04T12:37:31.791Z interactor:transporter Endpoint down, retry in 5 seconds ...
+2024-11-04T12:37:32.677Z interactor:transporter Trying to reconnect to remote endpoint
+2024-11-04T12:37:32.739Z interactor:transporter Connection etablished with remote endpoint
+2024-11-04T12:37:32.772Z interactor:transporter Trying to reconnect to remote endpoint
+2024-11-04T12:37:34.818Z interactor:transporter Connection etablished with remote endpoint
+2024-11-04T12:37:35.708Z interactor:transporter Trying to reconnect to remote endpoint
+2024-11-04T12:37:35.738Z interactor:transporter Endpoint down, retry in 5 seconds ...
+2024-11-04T12:37:36.680Z interactor:transporter Trying to reconnect to remote endpoint
+2024-11-04T12:37:36.711Z interactor:transporter Endpoint down, retry in 5 seconds ...
+2024-11-04T12:37:36.743Z interactor:transporter Trying to reconnect to remote endpoint
+2024-11-04T12:37:36.799Z interactor:transporter Endpoint down, retry in 5 seconds ...
+2024-11-04T12:37:37.681Z interactor:transporter Trying to reconnect to remote endpoint
+2024-11-04T12:37:37.741Z interactor:transporter Connection etablished with remote endpoint
+2024-11-04T12:37:40.739Z interactor:transporter Trying to reconnect to remote endpoint
+2024-11-04T12:37:40.918Z interactor:transporter Connection etablished with remote endpoint
+2024-11-04T12:37:41.711Z interactor:transporter Trying to reconnect to remote endpoint
+2024-11-04T12:37:41.766Z interactor:transporter Connection etablished with remote endpoint
+2024-11-04T12:37:41.800Z interactor:transporter Trying to reconnect to remote endpoint
+2024-11-04T12:37:41.862Z interactor:transporter Connection etablished with remote endpoint
+2024-11-04T12:38:12.664Z interactor:transporter Closed transporter
+2024-11-04T12:38:12.666Z interactor:transporter Trying to reconnect to remote endpoint
+2024-11-04T12:38:12.667Z interactor:interface Received event from websocket transporter
+2024-11-04T12:38:12.681Z interactor:transporter Closed transporter
+2024-11-04T12:38:12.681Z interactor:interface Received event from websocket transporter
+2024-11-04T12:38:12.736Z interactor:transporter Endpoint down, retry in 5 seconds ...
+2024-11-04T12:38:12.737Z interactor:transporter Trying to reconnect to remote endpoint
+2024-11-04T12:38:12.797Z interactor:transporter Connection etablished with remote endpoint
+2024-11-04T12:38:17.736Z interactor:transporter Trying to reconnect to remote endpoint
+2024-11-04T12:38:17.771Z interactor:transporter Endpoint down, retry in 5 seconds ...
+2024-11-04T12:38:18.742Z interactor:transporter Trying to reconnect to remote endpoint
+2024-11-04T12:38:18.776Z interactor:transporter Endpoint down, retry in 5 seconds ...
+2024-11-04T12:38:19.744Z interactor:transporter Trying to reconnect to remote endpoint
+2024-11-04T12:38:19.809Z interactor:transporter Endpoint down, retry in 5 seconds ...
+2024-11-04T12:38:20.676Z interactor:transporter Closed transporter
+2024-11-04T12:38:20.677Z interactor:transporter Trying to reconnect to remote endpoint
+2024-11-04T12:38:20.678Z interactor:interface Received event from websocket transporter
+2024-11-04T12:38:20.708Z interactor:transporter Endpoint down, retry in 5 seconds ...
+2024-11-04T12:38:20.746Z interactor:transporter Trying to reconnect to remote endpoint
+2024-11-04T12:38:20.844Z interactor:transporter Connection etablished with remote endpoint
+2024-11-04T12:38:22.771Z interactor:transporter Trying to reconnect to remote endpoint
+2024-11-04T12:38:22.811Z interactor:transporter Closed transporter
+2024-11-04T12:38:22.813Z interactor:interface Received event from websocket transporter
+2024-11-04T12:38:22.829Z interactor:transporter Endpoint down, retry in 5 seconds ...
+2024-11-04T12:38:23.747Z interactor:transporter Trying to reconnect to remote endpoint
+2024-11-04T12:38:23.783Z interactor:transporter Endpoint down, retry in 5 seconds ...
+2024-11-04T12:38:24.748Z interactor:transporter Trying to reconnect to remote endpoint
+2024-11-04T12:38:24.808Z interactor:transporter Endpoint down, retry in 5 seconds ...
+2024-11-04T12:38:24.811Z interactor:transporter Trying to reconnect to remote endpoint
+2024-11-04T12:38:24.872Z interactor:transporter Endpoint down, retry in 5 seconds ...
+2024-11-04T12:38:25.711Z interactor:transporter Trying to reconnect to remote endpoint
+2024-11-04T12:38:25.789Z interactor:transporter Endpoint down, retry in 5 seconds ...
+2024-11-04T12:38:26.495Z interactor:transporter Closed transporter
+2024-11-04T12:38:26.495Z interactor:transporter Trying to reconnect to remote endpoint
+2024-11-04T12:38:26.496Z interactor:interface Received event from websocket transporter
+2024-11-04T12:38:26.544Z interactor:transporter Endpoint down, retry in 5 seconds ...
+2024-11-04T12:38:26.812Z interactor:transporter Trying to reconnect to remote endpoint
+2024-11-04T12:38:27.102Z interactor:transporter Endpoint down, retry in 5 seconds ...
+2024-11-04T12:38:27.752Z interactor:transporter Closed transporter
+2024-11-04T12:38:27.766Z interactor:transporter Trying to reconnect to remote endpoint
+2024-11-04T12:38:27.770Z interactor:interface Received event from websocket transporter
+2024-11-04T12:38:28.090Z interactor:transporter Connection etablished with remote endpoint
+2024-11-04T12:38:28.788Z interactor:transporter Trying to reconnect to remote endpoint
+2024-11-04T12:38:29.178Z interactor:transporter Connection etablished with remote endpoint
+2024-11-04T12:38:29.835Z interactor:transporter Trying to reconnect to remote endpoint
+2024-11-04T12:38:30.253Z interactor:transporter Connection etablished with remote endpoint
+2024-11-04T12:38:30.844Z interactor:transporter Trying to reconnect to remote endpoint
+2024-11-04T12:38:31.921Z interactor:transporter Connection etablished with remote endpoint
+2024-11-04T12:38:32.123Z interactor:transporter Trying to reconnect to remote endpoint
+2024-11-04T12:38:32.930Z interactor:transporter Connection etablished with remote endpoint
+2024-11-04T12:38:33.067Z interactor:transporter Closed transporter
+2024-11-04T12:38:33.192Z interactor:transporter Trying to reconnect to remote endpoint
+2024-11-04T12:38:33.226Z interactor:interface Received event from websocket transporter
+2024-11-04T12:38:33.415Z interactor:transporter Closed transporter
+2024-11-04T12:38:33.428Z interactor:interface Received event from websocket transporter
+2024-11-04T12:38:33.758Z interactor:transporter Connection etablished with remote endpoint
+2024-11-04T12:38:40.980Z interactor:transporter Closed transporter
+2024-11-04T12:38:41.202Z interactor:transporter Trying to reconnect to remote endpoint
+2024-11-04T12:38:41.289Z interactor:interface Received event from websocket transporter
+2024-11-04T12:38:41.713Z interactor:transporter Closed transporter
+2024-11-04T12:38:41.780Z interactor:interface Received event from websocket transporter
+2024-11-04T12:38:41.970Z interactor:transporter Closed transporter
+2024-11-04T12:38:42.001Z interactor:interface Received event from websocket transporter
+2024-11-04T12:38:42.040Z interactor:transporter Closed transporter
+2024-11-04T12:38:42.041Z interactor:interface Received event from websocket transporter
+2024-11-04T12:39:08.556Z interactor:interface Connecting to: {"reverse":"https://freenode-1.keymetrics.io:43554","ws":"wss://freenode-1.keymetrics.io/interaction/public","push":"https://freenode-1.keymetrics.io:80","web":"https://freenode-1.keymetrics.io:443","realtime":"https://freenode-1.keymetrics.io:443"}
+2024-11-04T12:39:17.688Z interactor:transporter Closed transporter
+2024-11-04T12:39:17.688Z interactor:interface Received event from websocket transporter
+2024-11-04T12:39:22.685Z interactor:transporter Closed transporter
+2024-11-04T12:39:22.686Z interactor:interface Received event from websocket transporter
+2024-11-04T12:39:28.912Z interactor:transporter Closed transporter
+2024-11-04T12:39:28.912Z interactor:interface Received event from websocket transporter
+2024-11-04T12:39:29.895Z interactor:transporter Closed transporter
+2024-11-04T12:39:29.895Z interactor:interface Received event from websocket transporter
+2024-11-04T12:39:31.003Z interactor:transporter Closed transporter
+2024-11-04T12:39:31.003Z interactor:interface Received event from websocket transporter
+2024-11-04T12:39:31.888Z interactor:transporter Closed transporter
+2024-11-04T12:39:31.889Z interactor:interface Received event from websocket transporter
+2024-11-04T12:40:08.314Z interactor:interface Connecting to: {"reverse":"https://freenode-1.keymetrics.io:43554","ws":"wss://freenode-1.keymetrics.io/interaction/public","push":"https://freenode-1.keymetrics.io:80","web":"https://freenode-1.keymetrics.io:443","realtime":"https://freenode-1.keymetrics.io:443"}
